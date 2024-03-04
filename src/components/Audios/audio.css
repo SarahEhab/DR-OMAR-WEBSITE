@@ -1,0 +1,30 @@
+.background-image-card{
+    background-image: url('../../images/ground-card.png');
+    height: 179px;
+    background-size: cover;
+  }
+
+.background-image {
+    background-image: url('../../images/Vector\ \(4\).png');
+    background-size: cover;
+  }
+
+
+  @media (max-width: 768px){
+    .icons {
+    
+      margin-right: 50px;
+      margin-top: -105px;
+    }
+  }
+  @media (max-width: 768px){
+    .icons-card {
+    
+      margin-right: 150px;
+    
+    }
+  }
+  
+
+
+  
